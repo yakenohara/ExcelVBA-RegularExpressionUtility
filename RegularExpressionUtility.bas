@@ -25,7 +25,7 @@ Attribute VB_Name = "RegularExpressionUtility"
 ' ## Parameters
 '
 '  - keyWord
-'      セル検索キーワード
+'      検索キーワード
 '  - fromThisString
 '      検索対象範囲
 '  - ignoreCase default True
@@ -70,7 +70,7 @@ End Function
 ' ## Parameters
 '
 '  - keyWord
-'      セル検索キーワード
+'      検索キーワード
 '  - fromThisString
 '      検索対象範囲
 '  - ignoreCase default True
@@ -115,7 +115,7 @@ End Function
 '  - fromThisString
 '      検索対象範囲
 '  - keyWord
-'      セル検索キーワード
+'      検索キーワード
 '  - replacer
 '      置換キーワード
 '  - ignoreCase default True
